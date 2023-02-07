@@ -1,5 +1,5 @@
 const btn = document.getElementById('btn');
-const colors = ['red', 'blue', 'yellow', 'black', 'brown', 'violet'];
+const colors = ['Red', 'Blue', 'Yellow', 'Black', 'Brown', 'Violet'];
 const color = document.querySelector('.color');
 const container = document.querySelector('.container');
 
