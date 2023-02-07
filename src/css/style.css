@@ -37,7 +37,7 @@
     text-decoration: none;
 }
 
-.container {
+.container-simple {
     box-shadow: inset 0px 0px 25px 2px;
     background-color: blue;
     height: 669.9px;
@@ -57,6 +57,21 @@
     
 }
 
-.color {
+.color-simple {
     color: blue
+}
+
+.color-hex {
+    color: #14eb4a;
+}
+
+
+.container-hex {
+    box-shadow: inset 0px 0px 25px 2px;
+    background-color: #14eb4a;
+    height: 669.9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column  ;
 }
