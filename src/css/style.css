@@ -48,7 +48,7 @@
 }
 
 .info {
-    display: flex;
+    display: block;
     padding: 20px;
     border-radius: 20px;
     align-items: center;
